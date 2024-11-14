@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 
 df = pd.DataFrame({
-    'nomeServidor': ['selecione, 'Adriana', 'Monica', 'Samara'],
+    'nomeServidor': ['selecione', 'Adriana', 'Monica', 'Samara'],
     'salario': [0,1200,300,5000]
 })
 
